@@ -1,5 +1,6 @@
 ---
 title: Saga (Choreography) with Solace PubSub+
+sidebar_position: 5
 description: "Coordinate multi-step distributed transactions and compensation using choreography-based sagas on Solace in WSO2 Integrator."
 ---
 

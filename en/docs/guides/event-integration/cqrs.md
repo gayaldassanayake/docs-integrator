@@ -1,5 +1,6 @@
 ---
 title: CQRS with Kafka and PostgreSQL
+sidebar_position: 2
 description: "Separate read and write models using Kafka events and a PostgreSQL read store in WSO2 Integrator."
 ---
 

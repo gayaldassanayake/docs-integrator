@@ -1,5 +1,6 @@
 ---
 title: Transactional Outbox with CDC and RabbitMQ
+sidebar_position: 3
 description: "Guarantee at-least-once event delivery using the outbox pattern with PostgreSQL CDC and RabbitMQ in WSO2 Integrator."
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Competing Consumers with RabbitMQ
+sidebar_position: 4
 description: "Scale throughput by distributing work across multiple consumer instances using RabbitMQ in WSO2 Integrator."
 ---
 

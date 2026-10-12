@@ -1,5 +1,6 @@
 ---
 title: Dead-Letter Queue and Retry with Azure Service Bus
+sidebar_position: 6
 description: "Handle transient and permanent message failures using dead-letter queues and retry with Azure Service Bus in WSO2 Integrator."
 ---
 

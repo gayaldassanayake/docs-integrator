@@ -1,5 +1,6 @@
 ---
 title: Pub/Sub with Kafka
+sidebar_position: 1
 description: "Decouple producers and consumers using Kafka topics in WSO2 Integrator."
 ---
 
